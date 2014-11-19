@@ -1,0 +1,7 @@
+{
+  "name": "dogly",
+  "version": "1.0.0",
+  "dependencies": {
+	   "express": "3.0"
+  }
+}

@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.video {
+  width: 960px;
+  height: 540px;
+  margin: 20px auto 0 auto;
+  background: #333;
+}

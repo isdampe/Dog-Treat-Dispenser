@@ -1,0 +1,5 @@
+public_html/password.txt
+public_html/.passwd
+node/node_modules/*
+node/log/*
+

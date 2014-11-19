@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password for user harvey? (What are my legs called?)"
+AuthUserFile /home/pi/dog/public_html/.passwd
+Require user harvey
